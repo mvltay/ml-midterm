@@ -1,0 +1,2 @@
+Dataset,Selected Configuration,Seed,Test Accuracy,Test Macro-Precision,Test Macro-Recall,Test Macro-F1,Test ROC-AUC
+wine,knn_scaled_k11,42,1.0,1.0,1.0,1.0,1.0
